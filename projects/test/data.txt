@@ -1,1 +1,1 @@
-just making sure I have the commands correct
+updated from bash script - wooohoo!
