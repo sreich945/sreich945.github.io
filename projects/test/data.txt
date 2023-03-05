@@ -1,1 +1,8 @@
-updated by the pi at: 02/20/2023, 00:07:56
+
+Temperature: 21.7 C
+Gas: 568 ohm
+Humidity: 50.0 %
+Pressure: 1008.145 hPa
+Altitude = 42.59 meters
+
+Updated by the pi at: 03/04/2023, 22:49:10
