@@ -2,7 +2,7 @@
 Temperature: 20.4 C
 Gas: 568 ohm
 Humidity: 53.6 %
-Pressure: 1012.816 hPa
-Altitude = 3.62 meters
+Pressure: 1012.812 hPa
+Altitude = 3.65 meters
 
-Updated by the pi at: 03/20/2023, 23:37:38
+Updated by the pi at: 03/20/2023, 23:38:42
