@@ -1,0 +1,2 @@
+using raspi zero version 1 as thats all I could find
+using BNO085 IMU
