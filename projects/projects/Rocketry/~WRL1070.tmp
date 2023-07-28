@@ -24,17 +24,17 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Reich</o:Author>
   <o:LastAuthor>Reich</o:LastAuthor>
-  <o:Revision>18</o:Revision>
-  <o:TotalTime>153</o:TotalTime>
+  <o:Revision>14</o:Revision>
+  <o:TotalTime>40</o:TotalTime>
   <o:Created>2023-07-04T23:44:00Z</o:Created>
-  <o:LastSaved>2023-07-28T04:46:00Z</o:LastSaved>
-  <o:Pages>24</o:Pages>
-  <o:Words>4756</o:Words>
-  <o:Characters>27111</o:Characters>
+  <o:LastSaved>2023-07-05T03:18:00Z</o:LastSaved>
+  <o:Pages>20</o:Pages>
+  <o:Words>4441</o:Words>
+  <o:Characters>25318</o:Characters>
   <o:Company>Grizli777</o:Company>
-  <o:Lines>225</o:Lines>
-  <o:Paragraphs>63</o:Paragraphs>
-  <o:CharactersWithSpaces>31804</o:CharactersWithSpaces>
+  <o:Lines>210</o:Lines>
+  <o:Paragraphs>59</o:Paragraphs>
+  <o:CharactersWithSpaces>29700</o:CharactersWithSpaces>
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -42,7 +42,7 @@ w\:* {behavior:url(#default#VML);}
 <link rel=colorSchemeMapping href="Rocket_HDD_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:Zoom>80</w:Zoom>
+  <w:Zoom>50</w:Zoom>
   <w:SpellingState>Clean</w:SpellingState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
@@ -363,13 +363,6 @@ pre
 	mso-font-pitch:variable;
 	mso-font-signature:-536870145 1073786111 1 0 415 0;}
 @font-face
-	{font-family:Tahoma;
-	panose-1:2 11 6 4 3 5 4 4 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:swiss;
-	mso-font-pitch:variable;
-	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
-@font-face
 	{font-family:Consolas;
 	panose-1:2 11 6 9 2 2 4 3 2 4;
 	mso-font-charset:0;
@@ -415,18 +408,6 @@ pre
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;
 	color:black;}
-p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-link:"Balloon Text Char";
-	margin:0cm;
-	margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:8.0pt;
-	font-family:"Tahoma","sans-serif";
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:minor-fareast;
-	color:black;}
 span.HTMLPreformattedChar
 	{mso-style-name:"HTML Preformatted Char";
 	mso-style-noshow:yes;
@@ -440,22 +421,6 @@ span.HTMLPreformattedChar
 	mso-fareast-theme-font:minor-fareast;
 	mso-hansi-font-family:Consolas;
 	mso-bidi-font-family:Consolas;
-	color:black;}
-span.BalloonTextChar
-	{mso-style-name:"Balloon Text Char";
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"Balloon Text";
-	mso-ansi-font-size:8.0pt;
-	mso-bidi-font-size:8.0pt;
-	font-family:"Tahoma","sans-serif";
-	mso-ascii-font-family:Tahoma;
-	mso-fareast-font-family:"Times New Roman";
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:Tahoma;
-	mso-bidi-font-family:Tahoma;
 	color:black;}
 span.SpellE
 	{mso-style-name:"";
@@ -597,7 +562,7 @@ ul
 <meta name=ScaleCrop content=false>
 <meta name=ShareDoc content=false>
 <!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="5122"/>
+ <o:shapedefaults v:ext="edit" spidmax="4098"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -615,8 +580,8 @@ style='font-size:13.5pt'>A Series of Unlikely Explanations</span></u></b></p>
 
 <p style='margin-bottom:9.9pt'>Max, Matt, Will and I have talked on and off for
 a while about doing a rocket project. We tossed around a lot of ideas for how
-complicated it should be, what sensors to include, if there should be any active
-controls, how many stages etc.</p>
+complicated it should be, what sensors to include, if there should be any
+active controls, how many stages etc.</p>
 
 <p style='margin-bottom:9.9pt'>At New Years 2023 I bought a bunch of rocket
 engines for to use for a science / engineering type competition that
@@ -946,7 +911,7 @@ around in my hand:</p>
  </v:formulas>
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_2" o:spid="_x0000_s1198" type="#_x0000_t75"
+</v:shapetype><v:shape id="Picture_x0020_2" o:spid="_x0000_s1163" type="#_x0000_t75"
  style='position:absolute;margin-left:0;margin-top:0;width:468pt;height:303.75pt;
  z-index:1;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -963,7 +928,7 @@ clear=left style='mso-special-character:line-break'>
 <p style='margin-bottom:9.9pt'><b>Electronics Carrier:</b></p>
 
 <p style='margin-bottom:9.9pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_3"
- o:spid="_x0000_s1197" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1162" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:468pt;height:276.75pt;z-index:2;visibility:visible;
  mso-wrap-style:square;mso-wrap-distance-left:0;mso-wrap-distance-top:0;
  mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -989,7 +954,7 @@ support material.</p>
 <p style='margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p>
 
 <p style='margin-bottom:12.0pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_4"
- o:spid="_x0000_s1196" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1161" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:204pt;height:156.75pt;z-index:3;visibility:visible;
  mso-wrap-style:square;mso-wrap-distance-left:0;mso-wrap-distance-top:0;
  mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1001,7 +966,7 @@ support material.</p>
 </v:shape><![endif]--><![if !vml]><img width=272 height=209
 src="Rocket_HDD_html_4e89cf77.gif" align=left v:shapes="Picture_x0020_4"><![endif]><br
 clear=left>
-<!--[if gte vml 1]><v:shape id="Picture_x0020_5" o:spid="_x0000_s1195" type="#_x0000_t75"
+<!--[if gte vml 1]><v:shape id="Picture_x0020_5" o:spid="_x0000_s1160" type="#_x0000_t75"
  style='position:absolute;margin-left:0;margin-top:0;width:147pt;height:219pt;
  z-index:4;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1018,7 +983,7 @@ clear=left style='mso-special-character:line-break'>
 <p style='margin-bottom:9.9pt'><o:p>&nbsp;</o:p></p>
 
 <p style='margin-bottom:9.9pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_6"
- o:spid="_x0000_s1194" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1159" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:145.5pt;height:192.75pt;z-index:5;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1033,7 +998,7 @@ clear=left style='mso-special-character:line-break'>
 </p>
 
 <p style='margin-bottom:9.9pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_7"
- o:spid="_x0000_s1193" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1158" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:153pt;height:203.25pt;z-index:6;visibility:visible;
  mso-wrap-style:square;mso-wrap-distance-left:0;mso-wrap-distance-top:0;
  mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1076,7 +1041,7 @@ otherwise this would be more difficult.</p>
 <p style='margin-bottom:9.9pt'>Here's a block diagram of what I have so far:</p>
 
 <p style='margin-bottom:12.0pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_8"
- o:spid="_x0000_s1192" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1157" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:335.25pt;height:164.25pt;z-index:7;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1103,9 +1068,9 @@ of the changes we'll be making:</p>
 style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Shifting the Pi down and getting rid of the SD
-card hole. We don't really need to access the SD card regularly and removing
-the hole will help us make it waterproof.</p>
+</span></span></span><![endif]>Shifting the Pi down and getting rid of the SD card
+hole. We don't really need to access the SD card regularly and removing the
+hole will help us make it waterproof.</p>
 
 <p style='margin-top:5.0pt;margin-right:0cm;margin-bottom:9.9pt;margin-left:
 36.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo2;tab-stops:list 36.0pt'><![if !supportLists]><span
@@ -1167,7 +1132,7 @@ and <span class=SpellE>sftp</span> the data files off onto the PC where they
 could be formatted.</p>
 
 <p style='margin-bottom:9.9pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_9"
- o:spid="_x0000_s1191" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1156" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:468pt;height:264.75pt;z-index:8;visibility:visible;
  mso-wrap-style:square;mso-wrap-distance-left:0;mso-wrap-distance-top:0;
  mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1188,7 +1153,7 @@ style='font-family:"Courier New"'> -t 50000 -o test.h264</span>” and when the
 video actually started recording.</p>
 
 <p style='margin-bottom:9.9pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_10"
- o:spid="_x0000_s1190" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1155" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:468pt;height:306.75pt;z-index:9;visibility:visible;
  mso-wrap-style:square;mso-wrap-distance-left:0;mso-wrap-distance-top:0;
  mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1200,11 +1165,11 @@ video actually started recording.</p>
 </v:shape><![endif]--><![if !vml]><img width=624 height=409
 src="Rocket_HDD_html_m65809950.gif" align=left v:shapes="Picture_x0020_10"><![endif]><br
 clear=left>
-I used a formula from this site (https://sciencing.com/convert-hpa-altitude-8404260.html)
-to convert the pressure to metres of altitude. It looks roughly reasonable
-although the ground level of Ottawa should be more like 70 metres. I could
-probably tune the offsets for temperature and pressure to give closer absolute
-values.</p>
+I used a formula from this site
+(https://sciencing.com/convert-hpa-altitude-8404260.html) to convert the
+pressure to metres of altitude. It looks roughly reasonable although the ground
+level of Ottawa should be more like 70 metres. I could probably tune the
+offsets for temperature and pressure to give closer absolute values.</p>
 
 <p style='margin-bottom:9.9pt'>Here's some of the highlights from the data:</p>
 
@@ -1214,7 +1179,7 @@ with a large offset. The actual temperature was around 19C</p>
 <p style='margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p>
 
 <p style='margin-bottom:12.0pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_11"
- o:spid="_x0000_s1189" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1154" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:468pt;height:333.75pt;z-index:10;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1229,7 +1194,7 @@ clear=left style='mso-special-character:line-break'>
 <span style='mso-no-proof:yes'><o:p></o:p></span></p>
 
 <p style='margin-bottom:12.0pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_12"
- o:spid="_x0000_s1188" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1153" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:-220.05pt;width:467.7pt;height:288.65pt;z-index:11;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1244,7 +1209,7 @@ clear=left style='mso-special-character:line-break'>
 </p>
 
 <p style='margin-bottom:12.0pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_13"
- o:spid="_x0000_s1187" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1152" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:468pt;height:275.25pt;z-index:12;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1259,7 +1224,7 @@ clear=left style='mso-special-character:line-break'>
 <span style='mso-no-proof:yes'><o:p></o:p></span></p>
 
 <p style='margin-bottom:12.0pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_14"
- o:spid="_x0000_s1186" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1151" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:468pt;height:275.25pt;z-index:13;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1274,7 +1239,7 @@ clear=left style='mso-special-character:line-break'>
 </p>
 
 <p style='margin-bottom:12.0pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_15"
- o:spid="_x0000_s1185" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1150" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:468pt;height:312.75pt;z-index:14;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1288,20 +1253,20 @@ src="Rocket_HDD_html_m16f9ff8d.gif" align=left v:shapes="Picture_x0020_15"><![en
 clear=left style='mso-special-character:line-break'>
 </p>
 
-<p style='margin-bottom:9.9pt'>Above is the data from the IMU. First graph is accelerometer
-data in three axes, units in m/<span class=SpellE>s^s</span>. Once interesting
-thing is that the Z-axis (green) reports -9.8 m/s^2 (gravity) whenever the
-plane is sitting on the ground or in our hands. When it is actually gliding the
-normal force is reduced so the Z-axis acceleration goes up to -2ish, but not
-all the way to 0 as the plane is gliding, not in free fall. The next graph is
-gyroscope measurements in <span class=SpellE>in</span> three axes in <span
-class=SpellE>rad</span>/s. Not much interesting to say about this one. The next
-graph is magnetometer in three axes, units are <span class=SpellE>uT</span>. It
-looks like you can tell that as the glider rotates through 360 degrees that the
-magnetic field strength from the x-axis bleeds into the y-axis and then back to
-x etc. Maybe I'm just imaging it. The last graph is quaternion rotation vector
-(no units). Maybe this data will be useful if we ever want to generate a
-computer simulation of the flight.</p>
+<p style='margin-bottom:9.9pt'>Above is the data from the IMU. First graph is
+accelerometer data in three axes, units in m/<span class=SpellE>s^s</span>.
+Once interesting thing is that the Z-axis (green) reports -9.8 m/s^2 (gravity)
+whenever the plane is sitting on the ground or in our hands. When it is
+actually gliding the normal force is reduced so the Z-axis acceleration goes up
+to -2ish, but not all the way to 0 as the plane is gliding, not in free fall.
+The next graph is gyroscope measurements in <span class=SpellE>in</span> three
+axes in <span class=SpellE>rad</span>/s. Not much interesting to say about this
+one. The next graph is magnetometer in three axes, units are <span
+class=SpellE>uT</span>. It looks like you can tell that as the glider rotates
+through 360 degrees that the magnetic field strength from the x-axis bleeds
+into the y-axis and then back to x etc. Maybe I'm just imaging it. The last graph
+is quaternion rotation vector (no units). Maybe this data will be useful if we
+ever want to generate a computer simulation of the flight.</p>
 
 <p style='margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p>
 
@@ -1345,18 +1310,18 @@ style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
 style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Decide if <span class=SpellE>its</span> better to
-take one long video or multiple smaller sequential videos for retention reasons
-in the event of power loss.</p>
+</span></span></span><![endif]>Decide if <span class=SpellE>its</span> better
+to take one long video or multiple smaller sequential videos for retention
+reasons in the event of power loss.</p>
 
 <p style='margin-top:5.0pt;margin-right:0cm;margin-bottom:9.9pt;margin-left:
 36.0pt;text-indent:-18.0pt;mso-list:l1 level1 lfo4;tab-stops:list 36.0pt'><![if !supportLists]><span
 style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Test collecting a lot of data. Is it possible
-for the SD card to fill up? Probably not, the 5 min long video from the plane testing
-is only 32.3 MB and the SD card is 32 GB. But maybe there will be other
+</span></span></span><![endif]>Test collecting a lot of data. Is it possible for
+the SD card to fill up? Probably not, the 5 min long video from the plane
+testing is only 32.3 MB and the SD card is 32 GB. But maybe there will be other
 issues....</p>
 
 <p style='margin-top:5.0pt;margin-right:0cm;margin-bottom:9.9pt;margin-left:
@@ -1388,7 +1353,7 @@ like we'll be using <b>DX07VN24WA2C1568</b> for the charging connector, and <b>G
 for the toggle switch. Max has made the updates to the electronics carrier:</p>
 
 <p style='margin-bottom:9.9pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_16"
- o:spid="_x0000_s1184" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1149" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:27.85pt;width:224.65pt;height:148.9pt;z-index:15;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1405,7 +1370,7 @@ line-break'>
 </p>
 
 <p style='margin-bottom:12.0pt'><!--[if gte vml 1]><v:shape id="Picture_x0020_17"
- o:spid="_x0000_s1183" type="#_x0000_t75" style='position:absolute;
+ o:spid="_x0000_s1148" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:216.75pt;height:119.25pt;z-index:16;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1451,9 +1416,9 @@ class=SpellE>TimeoutSec</span>=infinity</pre><pre>[Install]</pre><pre><span
 class=SpellE>WantedBy</span>=<span class=SpellE>graphical.target</span></pre>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>There
-are options in the unit file for what services (for example the windowing
-service) need to be running before the OS will start the script. There are also
-retry options that will try restarting the script if anything goes wrong.</p>
+are options in the unit file for what services (for example the windowing service)
+need to be running before the OS will start the script. There are also retry
+options that will try restarting the script if anything goes wrong.</p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Once
 the unit files are created you enter the following commands</p>
@@ -1518,7 +1483,8 @@ process</p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>I'm
 getting all my <span class=SpellE>systemd</span> / unit file info from this <span
-class=SpellE>digikey</span> site: https://www.digikey.ca/en/maker/projects/how-to-run-a-raspberry-pi-program-on-startup/cc16cb41a3d447b8aaacf1da14368b13</p>
+class=SpellE>digikey</span> site:
+https://www.digikey.ca/en/maker/projects/how-to-run-a-raspberry-pi-program-on-startup/cc16cb41a3d447b8aaacf1da14368b13</p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>As
 I test I enabled all the services and rebooted the Pi. I put a timer in front
@@ -1537,7 +1503,7 @@ plug will be used to make the cable to connect to the USB Li-Po charger.</p>
 after 88 hours of printing Max has the rocket body!</p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_18" o:spid="_x0000_s1182" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_18" o:spid="_x0000_s1147" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:257.25pt;height:421.5pt;z-index:17;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1767,34 +1733,33 @@ this is a better command for seeing processor / memory <span class=SpellE>untili
 <span class=SpellE><span style='font-family:"Courier New"'>htop</span></span></p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>After
-testing all scripts with the above settings I feel like I'm done the software
-development I guess I'll package up all the scripts and release the flight
-software here:</p>
+testing all scripts with the above settings I feel like I'm done the software development
+I guess I'll package up all the scripts and release the flight software here:</p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
  id="_x0000_i1025" type="#_x0000_t75" style='width:135.75pt;height:40.5pt'
  o:ole="">
- <v:imagedata src="Rocket_HDD_files/image002.emz" o:title=""/>
+ <v:imagedata src="Rocket_HDD_files/image001.emz" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=181 height=54
-src="Rocket_HDD_files/image003.gif" v:shapes="_x0000_i1025"><![endif]><!--[if gte mso 9]><xml>
+src="Rocket_HDD_files/image004.gif" v:shapes="_x0000_i1025"><![endif]><!--[if gte mso 9]><xml>
  <o:OLEObject Type="Embed" ProgID="Package" ShapeID="_x0000_i1025"
-  DrawAspect="Content" ObjectID="_1752010348">
+  DrawAspect="Content" ObjectID="_1750017847">
  </o:OLEObject>
 </xml><![endif]--></p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>There
-are a couple minor things I've noticed. I've found that I have to make a
-compromise between IMU and Camera performance. If I record video at the default
-30fps the IMU will record very few readings (around 1 a second) and sometimes
-skip several seconds. I've settled on a <span class=SpellE>framerate</span> of
-20fps which still allows a couple IMU readings per second although the video
-still sometimes will drop a few frames. The altimeter isn't affected by any of
-this and consistently reports around 17-20 readings per second. I suppose this
-is because it is on the dedicated I2C interface.</p>
+are a couple minor things I've noticed. I've found that I have to make a compromise
+between IMU and Camera performance. If I record video at the default 30fps the
+IMU will record very few readings (around 1 a second) and sometimes skip
+several seconds. I've settled on a <span class=SpellE>framerate</span> of 20fps
+which still allows a couple IMU readings per second although the video still
+sometimes will drop a few frames. The altimeter isn't affected by any of this
+and consistently reports around 17-20 readings per second. I suppose this is
+because it is on the dedicated I2C interface.</p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Another
 quirk is that the timestamps in the data from the IMU and Altimeter always have
@@ -1866,7 +1831,7 @@ supposed to be. We'll just have to be careful to not plug a 5V <span
 class=SpellE>usb</span> charger into it.</p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_19" o:spid="_x0000_s1181" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_19" o:spid="_x0000_s1146" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:402.75pt;height:264pt;z-index:18;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1881,7 +1846,7 @@ clear=left style='mso-special-character:line-break'>
 </p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_20" o:spid="_x0000_s1180" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_20" o:spid="_x0000_s1145" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:371.25pt;height:480pt;z-index:19;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1900,7 +1865,7 @@ clear=left style='mso-special-character:line-break'>
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_21" o:spid="_x0000_s1179" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_21" o:spid="_x0000_s1144" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:336.75pt;height:474.75pt;z-index:20;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1915,7 +1880,7 @@ clear=left style='mso-special-character:line-break'>
 </p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_22" o:spid="_x0000_s1178" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_22" o:spid="_x0000_s1143" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:254.25pt;height:182.25pt;z-index:21;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1945,12 +1910,12 @@ src="Rocket_HDD_html_m19d97f29.jpg" align=left v:shapes="Picture_x0020_22"><![en
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>We
 put the carrier into the actual rocket body. It is quite a tight fit and so
-will be hard to pull out. We are wondering if the different shrinkage rates between
-the PLA and ABS factor in to the tight fit. A future improvement could be
-printing some kind of handle into the top to allow this.</p>
+will be hard to pull out. We are wondering if the different shrinkage rates
+between the PLA and ABS factor in to the tight fit. A future improvement could
+be printing some kind of handle into the top to allow this.</p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_23" o:spid="_x0000_s1177" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_23" o:spid="_x0000_s1142" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:384pt;height:239.25pt;z-index:22;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1965,7 +1930,7 @@ clear=left style='mso-special-character:line-break'>
 </p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_24" o:spid="_x0000_s1176" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_24" o:spid="_x0000_s1141" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:345.75pt;height:442.5pt;z-index:23;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -1982,7 +1947,7 @@ clear=left style='mso-special-character:line-break'>
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_25" o:spid="_x0000_s1175" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_25" o:spid="_x0000_s1140" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:305.25pt;height:400.5pt;z-index:24;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -2001,12 +1966,12 @@ the electronics in the rocket we tied the parachute to the shock cord and got
 ready to test out the parachute. We decided our first drop would be from condo
 balcony. I turned the electronics on and Max and <span class=SpellE>Eila</span>
 went down to attempt to catch the rocket. On the count of three I dropped the
-rocket. The parachute started to open by around the third floor but unfortunately
-the rocket body swung back in to one of the balconies and got stuck. Luckily
-the person in the apartment heard the rocket smacking their balcony and came
-out to throw it down. The data on from the electronics started successfully but
-for some reason all the scripts stopped recording a few seconds after hitting
-the balcony, I'll have to look into this....</p>
+rocket. The parachute started to open by around the third floor but
+unfortunately the rocket body swung back in to one of the balconies and got
+stuck. Luckily the person in the apartment heard the rocket smacking their
+balcony and came out to throw it down. The data on from the electronics started
+successfully but for some reason all the scripts stopped recording a few
+seconds after hitting the balcony, I'll have to look into this....</p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>We
 then decided to try again from the roof of the condo. We dropped from above the
@@ -2029,7 +1994,7 @@ currently designing a retention plate that will screw into the bottom of the
 rocket.</p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_26" o:spid="_x0000_s1174" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_26" o:spid="_x0000_s1139" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:258pt;height:474.75pt;z-index:25;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -2044,7 +2009,7 @@ clear=left style='mso-special-character:line-break'>
 </p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_27" o:spid="_x0000_s1173" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_27" o:spid="_x0000_s1138" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:468pt;height:624pt;z-index:26;visibility:visible;
  mso-wrap-style:square;mso-wrap-distance-left:0;mso-wrap-distance-top:0;
  mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -2059,7 +2024,7 @@ clear=left style='mso-special-character:line-break'>
 <b><o:p></o:p></b></p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_28" o:spid="_x0000_s1172" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_28" o:spid="_x0000_s1137" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:23.1pt;width:467.85pt;height:624.2pt;z-index:27;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -2130,8 +2095,8 @@ src="Rocket_HDD_html_3e0e1d13.jpg" align=left v:shapes="Picture_x0020_28"><![end
 had a minor setback.</p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Max
-took the rocket back as well as a few engines and the one of the igniters back to
-do a parachute ejection test at his place. I was too busy packing up for
+took the rocket back as well as a few engines and the one of the igniters back
+to do a parachute ejection test at his place. I was too busy packing up for
 Calgary.</p>
 
 <p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>We
@@ -2160,7 +2125,7 @@ order some parts, print a new carrier and get back to work once I'm back from
 Calgary.</p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_29" o:spid="_x0000_s1171" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_29" o:spid="_x0000_s1136" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:445.5pt;height:11in;z-index:28;visibility:visible;
  mso-wrap-style:square;mso-wrap-distance-left:0;mso-wrap-distance-top:0;
  mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -2175,7 +2140,7 @@ clear=left style='mso-special-character:line-break'>
 <span style='mso-no-proof:yes'><o:p></o:p></span></p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_34" o:spid="_x0000_s1170" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_34" o:spid="_x0000_s1135" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:0;width:445.45pt;height:11in;z-index:33;visibility:visible;
  mso-wrap-style:square;mso-wrap-distance-left:0;mso-wrap-distance-top:0;
  mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -2284,7 +2249,7 @@ style='mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
 style='mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_30" o:spid="_x0000_s1169" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_30" o:spid="_x0000_s1134" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:162.95pt;width:468.35pt;height:623.35pt;z-index:29;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -2305,7 +2270,7 @@ clear=left style='mso-special-character:line-break'>
 </p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_33" o:spid="_x0000_s1168" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_33" o:spid="_x0000_s1133" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:131.1pt;width:445.5pt;height:11in;z-index:32;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -2320,7 +2285,7 @@ clear=left style='mso-special-character:line-break'>
 </p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_35" o:spid="_x0000_s1167" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_35" o:spid="_x0000_s1132" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:-5.7pt;width:445.65pt;height:11in;z-index:34;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -2339,7 +2304,7 @@ clear=left style='mso-special-character:line-break'>
 </p>
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_32" o:spid="_x0000_s1166" type="#_x0000_t75" style='position:absolute;
+ id="Picture_x0020_32" o:spid="_x0000_s1131" type="#_x0000_t75" style='position:absolute;
  margin-left:0;margin-top:166.75pt;width:468.35pt;height:623.35pt;z-index:31;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
@@ -2395,9 +2360,18 @@ src="Rocket_HDD_html_3aba49e7.jpg" align=left v:shapes="Picture_x0020_32"><![end
 
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
 
+<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style='mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
+
 <p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_31" o:spid="_x0000_s1165" type="#_x0000_t75" style='position:absolute;
- margin-left:0;margin-top:3.05pt;width:468pt;height:351pt;z-index:30;
+ id="Picture_x0020_31" o:spid="_x0000_s1130" type="#_x0000_t75" style='position:absolute;
+ margin-left:0;margin-top:104.2pt;width:468.35pt;height:350.5pt;z-index:30;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:0;
  mso-wrap-distance-top:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;
  mso-position-horizontal:left;mso-position-horizontal-relative:text;
@@ -2405,269 +2379,8 @@ src="Rocket_HDD_html_3aba49e7.jpg" align=left v:shapes="Picture_x0020_32"><![end
  o:allowoverlap="f">
  <v:imagedata src="Rocket_HDD_html_73afebc4.jpg"/>
  <w:wrap type="square" anchory="line"/>
-</v:shape><![endif]--><![if !vml]><img width=624 height=468
-src="Rocket_HDD_html_73afebc4.jpg" align=left v:shapes="Picture_x0020_31"><![endif]><span
-style='mso-no-proof:yes'><o:p></o:p></span></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b>[July
-27, 2023]:<o:p></o:p></b></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>First update in a while. I used Max's spare
-electronics carrier and spare parts to recreate the electronics carrier. Luckily
-the only parts I had to re-order were the camera and the IMU.<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>Here's a picture of the rebuilt carrier:<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_2"
- o:spid="_x0000_i1035" type="#_x0000_t75" style='width:340.5pt;height:455.25pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Rocket_HDD_files/image004.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=454 height=607
-src="Rocket_HDD_files/image005.jpg" v:shapes="Picture_x0020_2"><![endif]></span><span
-style='mso-bidi-font-weight:bold'><o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>Everything worked first time with the old SD
-card, no changes required.<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>I realized I haven't included a <span
-class=SpellE>pinout</span> / connection diagram. This will be helpful if we
-ever need to build the electronics carrier again:<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>Led - Blue <span style='mso-tab-count:1'>            </span>-
-GPIO16<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-class=SpellE><span style='mso-bidi-font-weight:bold'>Led</span></span><span
-style='mso-bidi-font-weight:bold'> - Green<span style='mso-tab-count:1'>           </span>-
-GND 34<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>IMU - Black<span style='mso-tab-count:1'>          </span>-
-GND 39<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>IMU - Blue (<span style='mso-tab-count:1'>          </span>-
-GPIO24 (<span class=SpellE>sda</span>)<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>IMU - Yellow<span style='mso-tab-count:1'>        </span>-
-GPIO23 (<span class=SpellE>scl</span>)<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>IMU - Grey<span style='mso-tab-count:1'>           </span>-
-3V3 (1) <span style='mso-tab-count:1'>               </span><o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>PI<span style='mso-spacerun:yes'>  </span>-
-5V (2)<span style='mso-tab-count:1'>            </span>- <span class=SpellE>PowerBoost</span>+<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>PI<span style='mso-spacerun:yes'>  </span>-
-GND 6<span style='mso-tab-count:1'>           </span>- <span class=SpellE>PowerBoost</span>-<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>Alt - Grey<span style='mso-tab-count:1'>              </span>-
-IMU Grey<span style='mso-tab-count:1'>           </span><o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>Alt - Black<span style='mso-tab-count:1'>             </span>-
-GND 9<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>Alt - Green<span style='mso-tab-count:1'>            </span>-
-GPIO2<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>Alt - Yellow<span style='mso-tab-count:1'>          </span>-
-GPIO3<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>Max also has another rocket body printed. We
-decided to name it &quot;A Series of Unlikely Explanations&quot; and Max gave
-it a paint job:<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_3"
- o:spid="_x0000_i1034" type="#_x0000_t75" style='width:166.5pt;height:366pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Rocket_HDD_files/image006.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=222 height=488
-src="Rocket_HDD_files/image007.jpg" v:shapes="Picture_x0020_3"><![endif]></span><span
-style='mso-bidi-font-weight:bold'><span style='mso-spacerun:yes'> </span></span><span
-style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_4"
- o:spid="_x0000_i1033" type="#_x0000_t75" style='width:257.25pt;height:370.5pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Rocket_HDD_files/image008.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=343 height=494
-src="Rocket_HDD_files/image009.jpg" v:shapes="Picture_x0020_4"><![endif]></span><span
-style='mso-bidi-font-weight:bold'><span style='mso-spacerun:yes'> </span></span><span
-style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_5"
- o:spid="_x0000_i1032" type="#_x0000_t75" style='width:228pt;height:370.5pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Rocket_HDD_files/image010.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=304 height=494
-src="Rocket_HDD_files/image011.jpg" v:shapes="Picture_x0020_5"><![endif]></span><span
-style='mso-bidi-font-weight:bold'><o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>We're also going to print a launch pad. Max
-send me the files to print and it will be the biggest print job I've done on my
-printer.<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>Printing three arms and the base with only
-10% infill and 80 degrees overhang support looks like it will take almost 2
-days to print.<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_6"
- o:spid="_x0000_i1031" type="#_x0000_t75" style='width:721.5pt;height:402.75pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Rocket_HDD_files/image012.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=962 height=537
-src="Rocket_HDD_files/image013.jpg" v:shapes="Picture_x0020_6"><![endif]></span><span
-style='mso-bidi-font-weight:bold'><o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>We were originally just going to bury one end
-of our launch pole but after some rough calculations it looks like our rocket
-is in danger of having a low speed as it leaves the top of the pole.<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>Printing the launch pad will maximize the
-effective length of the pole which will hopefully make the rocket fly
-straighter as it leaves the pole.<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>Max did some cool calculations. Included is
-max height and speed calculations using different motors, how far the rocket
-could drift under parachute, speed at end of launch pole, and center of
-pressure/gravity and stability analysis etc.<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>Some highlights:<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>- Max expected altitude of <b>2700+ feet</b>
-(using E12 motors)<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>- Max velocity of <b>122 m/s</b> at second
-stage with E12 motors.<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>- A potential drift distance of <b>746</b>
-metres (using E12 motors)<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>- Location of center of pressure and gravity
-should give an adequately stable rocket.<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'>The spreadsheet is in this directory, but
-I'll include screenshots of the sheets:<o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_12"
- o:spid="_x0000_i1030" type="#_x0000_t75" style='width:808.5pt;height:559.5pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Rocket_HDD_files/image022.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=1078 height=746
-src="Rocket_HDD_files/image023.jpg" v:shapes="Picture_x0020_12"><![endif]></span><span
-style='mso-bidi-font-weight:bold'><o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_13"
- o:spid="_x0000_i1029" type="#_x0000_t75" style='width:512.25pt;height:130.5pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Rocket_HDD_files/image024.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=683 height=174
-src="Rocket_HDD_files/image025.jpg" v:shapes="Picture_x0020_13"><![endif]></span><span
-style='mso-bidi-font-weight:bold'><o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_14"
- o:spid="_x0000_i1028" type="#_x0000_t75" style='width:565.5pt;height:432.75pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Rocket_HDD_files/image026.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=754 height=577
-src="Rocket_HDD_files/image027.jpg" v:shapes="Picture_x0020_14"><![endif]></span><span
-style='mso-bidi-font-weight:bold'><o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_15"
- o:spid="_x0000_i1027" type="#_x0000_t75" style='width:834.75pt;height:394.5pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Rocket_HDD_files/image028.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=1113 height=526
-src="Rocket_HDD_files/image029.jpg" v:shapes="Picture_x0020_15"><![endif]></span><span
-style='mso-bidi-font-weight:bold'><o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_16"
- o:spid="_x0000_i1026" type="#_x0000_t75" style='width:858.75pt;height:555pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="Rocket_HDD_files/image030.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=1145 height=740
-src="Rocket_HDD_files/image031.jpg" v:shapes="Picture_x0020_16"><![endif]></span><span
-style='mso-bidi-font-weight:bold'><o:p></o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
-
-<p style='margin-bottom:9.9pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
-style='mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
-
-<p style='margin-bottom:12.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><o:p>&nbsp;</o:p></p>
+</v:shape><![endif]--><![if !vml]><img width=624 height=467
+src="Rocket_HDD_html_73afebc4.jpg" align=left v:shapes="Picture_x0020_31"><![endif]></p>
 
 </div>
 
